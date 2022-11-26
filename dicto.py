@@ -43,7 +43,7 @@ print (frnd+"123#")
 
 print (frnd+num2[0]+num2[1]+num2[2]+spl)
 print (frnd+num2[0]+num2[1]+num2[3]+num2[4]+spl)
-print (frnd+num2[0]+num2[1]+num2[2]+num2[3]num2[4]+num2[5]+num2[6])
+print (frnd+num2[0]+num2[1]+num2[2]+num2[3]+num2[4]+num2[5]+num2[6])
 print (num2[0]+num2[1]+num2[2]+num2[3]+num2[4]+num2[5]+num2[6])
 print (num2[0]+num2[1]+num2[2]+num2[3]+num2[4]+num2[5]+num2[6]+num2[7]+num2[8])
 
