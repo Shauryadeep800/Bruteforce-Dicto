@@ -109,6 +109,6 @@ print (frnd+word3[0]+word3[1]+word3[2]+word3[3]word3[4]+word3[5]+word3[6])
 print (word3[0]+word3[1]+word3[2]+word3[3]+word3[4]+word3[5]+word3[6])
 print (word3[0]+word3[1]+word3[2]+word3[3]+word3[4]+word3[5]+word3[6]+word3[7]+word3[8])
 
-
+print ("Copy these words and paste in your dict *")
 
 
