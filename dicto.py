@@ -87,7 +87,7 @@ print (frnd+word2[0]+word2[1]+word2[2]+spl)
 print (frnd+word2[0]+word2[1]+word2[3]+word2[4]+spl)
 print (frnd+word2[0]+word2[1]+word2[2]+word2[3]+word2[4]+word2[5]+word2[6])
 print (word2[0]+word2[1]+word2[2]+word2[3]+word2[4]+word2[5]+word2[6])
-print (word2[0]+word2[1]+word2[2]+word2[3]word2[4]+word2[5]+word2[6]+word2[7]+word2[8])
+print (word2[0]+word2[1]+word2[2]+word2[3]+word2[4]+word2[5]+word2[6]+word2[7]+word2[8])
 
 
 #WORD3
